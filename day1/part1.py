@@ -1,0 +1,1 @@
+print(sum(int(l.strip())//3-2 for l in open('i')))
